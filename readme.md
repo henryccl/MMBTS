@@ -19,5 +19,5 @@ Result on BraTS2018:
 
 
 
-## acknowledgment:
+## Acknowledgment:
 Some implementations are referenced from "https://github.com/rezazad68/smunet" and "https://github.com/Wangyixinxin/ACN"
